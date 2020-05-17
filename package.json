@@ -1,0 +1,16 @@
+{
+  "name": "vigo-power",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/tailwind.css -o public/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/ui": "^0.3.0",
+    "tailwindcss": "^1.4.6"
+  }
+}
